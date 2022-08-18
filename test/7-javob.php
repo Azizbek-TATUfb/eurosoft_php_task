@@ -1,0 +1,2 @@
+<?php
+// javobi MVC papkada
