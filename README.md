@@ -1,3 +1,3 @@
 # Berilgan topshiriq
 
-Assalomu alaykum! 
+barcha savollar javobi test papkada joylashgan
